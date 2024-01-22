@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md"
+                "file": "README.md"
               }
             }
           }
@@ -163,9 +163,10 @@
   },
   "active": "f50598635c240cbb",
   "lastOpenFiles": [
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/4 Cryptography (Part 1).md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/2 Introduction and Security Trends.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/1 General Security Concepts.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/4 Cryptography (Part 1).md",
     "! Images/taqi signature.png",
     "! Images/taqi signature 1.png",
     "! Images/quinn signature.png",
@@ -177,7 +178,6 @@
     "! Images/Pasted image 20240114161102.png",
     "! Images/Pasted image 20240114160652.png",
     "! Images",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/1 General Security Concepts.md",
     "Study Guides/AZ 900 Study Guide.pdf",
     "Study Guides/ELECTRONICS STUDY GUIDE.md",
     "Study Guides/Untitled.md",
