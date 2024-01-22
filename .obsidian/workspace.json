@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dbdf4d4b1d854c05",
+        "id": "6c5e93aa1f8210ea",
         "type": "tabs",
         "children": [
           {
-            "id": "8a5e6e3f055717f2",
+            "id": "f50598635c240cbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0589a6c7d90d898a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md"
               }
             }
           }
@@ -174,9 +161,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9283fb22522cbd2f",
+  "active": "f50598635c240cbb",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md"
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/4 Cryptography (Part 1).md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/2 Introduction and Security Trends.md",
+    "! Images/taqi signature.png",
+    "! Images/taqi signature 1.png",
+    "! Images/quinn signature.png",
+    "! Images/quinn signature 3.png",
+    "! Images/quinn signature 2.png",
+    "! Images/quinn signature 1.png",
+    "! Images/Pasted image 20240114163336.png",
+    "! Images/Pasted image 20240114162709.png",
+    "! Images/Pasted image 20240114161102.png",
+    "! Images/Pasted image 20240114160652.png",
+    "! Images",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/1 General Security Concepts.md",
+    "Study Guides/AZ 900 Study Guide.pdf",
+    "Study Guides/ELECTRONICS STUDY GUIDE.md",
+    "Study Guides/Untitled.md",
+    "Study Guides/NETW2000 - Study Guide.md",
+    "Study Guides/PRGM 2000 - Bash Study Guide.md",
+    "Study Guides/PRGM_2000_-_Bash_Study_Guide.md",
+    "README.md",
+    "Study Guides/ELECTRONICS STUDY GUIDE.pdf",
+    "Study Guides/SECR2000 - Study Guide.pdf",
+    "Study Guides/PRGM 2000 - Bash Study Guide.pdf",
+    "Study Guides/NETW2100 - Integrated Communications Study Guide.pdf",
+    "Study Guides/NETW2000 - Study Guide.pdf",
+    "Study Guides",
+    "New folder",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/5 Cryptography (Part 2).md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security",
+    "Year 2/Sem 2/PROJ2000/Meeting Notes/Meeting Template.md",
+    "Year 2/Sem 2/PROJ2000/Meeting Notes/Jan 19 Meeting Notes.md",
+    "Year 2/Sem 2/PROJ2000/Meeting Notes/Jan 22 Meeting Notes.md",
+    "Year 2/Sem 2/PROJ2000/Meeting Notes/Jan 15 Meeting Notes.md",
+    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 9 Project Cost Management.md",
+    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 8 Project Schedule Management.md",
+    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 7 Project Scope Management.md",
+    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 6 Project Integration Management.md",
+    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 5 Project Resource Management.md",
+    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 4 Process Groups.md",
+    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 3 - Communications.md",
+    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 2 - IT context.md",
+    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 1 Intro to Project Management.md",
+    "Year 2/Sem 2/PROJ2000/Lecture Notes/Case Study.md"
   ]
 }
