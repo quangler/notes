@@ -29,7 +29,7 @@ used when you need to define specific criteria, other than destination network f
 - PBR overrides the router's natural destination based forwarding logic. (PBR acts **before** the router performs its IP routing table lookup/matching)
 PBR can be configured to provide **equal-access** load-sharing based on source subnets.
 ```PBR-R1
-ip access-list extended ISP-1 permit 1.1.1.0 0.0.0.255 any
+ip access-list extended ISP-1 permit 1.1.1.0 0.0.0.255 any !!! traffic from the 1.1.1.0 network
 ip access-list extended ISP-2 permit 1.2.2.0 0.0.0.255 any
 
 route-map EQUAL-ACCESS-RM permit 10
@@ -40,7 +40,7 @@ route-map EQAUL-ACCESS-RM permit 20
 match ip address ISP-2
 set ip next-hop 172.20.5.1
 
-interface f0/0
+interface f0/0 !!! put it on both vlans in case of 2 vlans
 ip policy route-map EQUAL-ACCESS-RM
 ```
 ^^^ this will allow one router to split the load to 2 ISPs.
