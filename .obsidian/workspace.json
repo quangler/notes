@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md",
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,6 +31,7 @@
       {
         "id": "e5ff87f6d34add90",
         "type": "tabs",
+        "dimension": 68.8953488372093,
         "children": [
           {
             "id": "233320c6ee911cf8",
@@ -70,6 +71,7 @@
       {
         "id": "42722eef6cf7c86a",
         "type": "tabs",
+        "dimension": 31.1046511627907,
         "children": [
           {
             "id": "9283fb22522cbd2f",
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md",
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md",
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md"
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md"
               }
             }
           }
@@ -163,8 +165,10 @@
   },
   "active": "f50598635c240cbb",
   "lastOpenFiles": [
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/5 Cryptography (Part 2).md",
+    "Year 2/Sem 2/NET2400 - Internetworking/1 First Hop Redundancy Protocols.md",
+    "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/5 Cryptography (Part 2).md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/4 Cryptography (Part 1).md",
     "README.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md",
@@ -206,8 +210,6 @@
     "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 5 Project Resource Management.md",
     "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 4 Process Groups.md",
     "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 3 - Communications.md",
-    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 2 - IT context.md",
-    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 1 Intro to Project Management.md",
-    "Year 2/Sem 2/PROJ2000/Lecture Notes/Case Study.md"
+    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 2 - IT context.md"
   ]
 }
