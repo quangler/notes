@@ -6,7 +6,6 @@
       {
         "id": "cc02b92c6ed1ff13",
         "type": "tabs",
-        "dimension": 56.709956709956714,
         "children": [
           {
             "id": "34899d1111c9f49c",
@@ -14,32 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "efcf2c93b10287d4",
-        "type": "tabs",
-        "dimension": 43.290043290043286,
-        "children": [
+          },
           {
-            "id": "44702ae806a5727a",
+            "id": "34485f4fbab96a72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-23.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md"
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md"
               }
             }
           }
@@ -183,13 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34899d1111c9f49c",
+  "active": "34485f4fbab96a72",
   "lastOpenFiles": [
-    "2024-01-23.md",
-    "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
-    "! Commands Page.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 notes.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md",
+    "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
+    "2024-01-23.md",
+    "! Commands Page.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/Lab 1 Documentation Section.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/3 ADFS - Certificate Services.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/lab 1 notes 1.md",

@@ -17,7 +17,7 @@ some tweaks will be made from here to lab
 add role to RDS1 (SRV6) > remote desktop services > all remote desktop things (**except virtualization host**) > reboot
 add role to RDS2 (SRV7) > remote desktop services > session host
 	(SRV6) add roles and features > remote desktop service > standard deployment > session-based deployment > select everything as SRV6 > install RD web access service CHECK > deploy
-		(on SRV6) manage > create server group > `RDS Servers` add in SRV6, SRV6, SRV7
+		(on SRV6) manage > create server group > `RDS Servers` add in SRV5, SRV6, SRV7
 		(SRV6) server manager > remote desktop services > collections > add host servers > add SRV7
 if you need to do maintenance on a server > (in collections) right click on host sever > disable connections (it will act as a forwarder to other host)
 
