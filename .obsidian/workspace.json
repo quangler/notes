@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34485f4fbab96a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md",
+                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/3 Working With Wireshark.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 257.5
   },
   "right": {
     "id": "3641b0b9bbde8c04",
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md",
+                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/3 Working With Wireshark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md",
+                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/3 Working With Wireshark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md"
+                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/3 Working With Wireshark.md"
               }
             }
           }
@@ -176,13 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34485f4fbab96a72",
+  "active": "34899d1111c9f49c",
   "lastOpenFiles": [
+    "Year 2/Sem 2/NETW2300 - Network Analysis/4 TCP-IP Transport Layer Protocols Part 1.md",
+    "! Commands Page.md",
+    "Year 2/Sem 2/NETW2300 - Network Analysis/3 Working With Wireshark.md",
+    "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 notes.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md",
-    "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
     "2024-01-23.md",
-    "! Commands Page.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/Lab 1 Documentation Section.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/3 ADFS - Certificate Services.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/lab 1 notes 1.md",
@@ -221,8 +210,6 @@
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security",
     "Year 2/Sem 2/PROJ2000/Meeting Notes/Meeting Template.md",
     "Year 2/Sem 2/PROJ2000/Meeting Notes/Jan 19 Meeting Notes.md",
-    "Year 2/Sem 2/PROJ2000/Meeting Notes/Jan 22 Meeting Notes.md",
-    "Year 2/Sem 2/PROJ2000/Meeting Notes/Jan 15 Meeting Notes.md",
-    "Year 2/Sem 2/PROJ2000/Lecture Notes/PROJ 2000 - Topic 9 Project Cost Management.md"
+    "Year 2/Sem 2/PROJ2000/Meeting Notes/Jan 22 Meeting Notes.md"
   ]
 }
