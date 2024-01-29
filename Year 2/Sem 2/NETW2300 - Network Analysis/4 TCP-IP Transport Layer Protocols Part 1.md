@@ -58,7 +58,7 @@ Process of negotiation between two communicating hosts
 		- host 1's starting seq number 
 		- source and destination port numbers 
 		- the MSS that can fit into each segment
-MSS - maximum segment size
+MSS - maximum segment size - usually around 1460
 MSS = total length - IP header (20 bytes) - TCP header (20 bytes)
 
 2. **SYN-ACK** - host 2 responds with its own starting sequence number (**SYN bit = 1**) and an indication of MSS, as well as the destination and source port number. 
