@@ -44,7 +44,7 @@ certificate extensions allow for further information to be inserted within the c
 #### Certificate Attributes
 four main certificate types:
 - **End-entity certificates** - issued by a CA to a specific subject
-- **CA certificates** - self-signed, in the case of a standalone or root CA, or issued by a superior CA within a hierarchical model.
+- **CA certificates** - self-signed, in the case of a standalone or root CA (root CA is not domain joined), or issued by a superior CA within a hierarchical model.
 - **Cross-certification certificates** - used when independent CAs establish a peer-to-peer trust relationship
 - **Policy certificates** - used for high-security applications where you need to provide centrally controlled policy information to PKI clients
 #### Certificate Lifecycles

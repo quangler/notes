@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 286.5
   },
   "right": {
     "id": "3641b0b9bbde8c04",
@@ -163,11 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9283fb22522cbd2f",
+  "active": "34899d1111c9f49c",
   "lastOpenFiles": [
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/5 Cryptography (Part 2).md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (Part 2).md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/5 Cryptography (Part 2).md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/5 TCP-IP Transport Layer Protocols Part 2.md",
     "Pasted image 20240129102914.png",
     "Pasted image 20240129102843.png",
