@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md"
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md"
               }
             }
           }
@@ -166,6 +166,8 @@
   "active": "34899d1111c9f49c",
   "lastOpenFiles": [
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/quiz notes.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/5 Cryptography (Part 2).md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/5 TCP-IP Transport Layer Protocols Part 2.md",
@@ -201,7 +203,6 @@
     "Study Guides/Untitled.md",
     "Study Guides/NETW2000 - Study Guide.md",
     "Study Guides/PRGM 2000 - Bash Study Guide.md",
-    "Study Guides/PRGM_2000_-_Bash_Study_Guide.md",
     "Study Guides/ELECTRONICS STUDY GUIDE.pdf",
     "Study Guides/SECR2000 - Study Guide.pdf",
     "Study Guides/PRGM 2000 - Bash Study Guide.pdf",
@@ -209,7 +210,6 @@
     "Study Guides/NETW2000 - Study Guide.pdf",
     "Study Guides",
     "New folder",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security",
-    "Year 2/Sem 2/PROJ2000/Meeting Notes/Meeting Template.md"
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security"
   ]
 }
