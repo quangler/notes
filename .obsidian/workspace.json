@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/3 Intro to IPv6 Addressing.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/3 Intro to IPv6 Addressing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/3 Intro to IPv6 Addressing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md"
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/3 Intro to IPv6 Addressing.md"
               }
             }
           }
@@ -165,8 +165,10 @@
   },
   "active": "34899d1111c9f49c",
   "lastOpenFiles": [
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 notes.md",
+    "Year 2/Sem 2/NET2400 - Internetworking/3 Intro to IPv6 Addressing.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/quiz notes.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/5 Cryptography (Part 2).md",
@@ -179,7 +181,6 @@
     "Year 2/Sem 2/NETW2300 - Network Analysis/3 Working With Wireshark.md",
     "! Commands Page.md",
     "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 notes.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 1 Documentation Section 1.md",
     "2024-01-23.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/Lab 1 Documentation Section.md",
@@ -202,7 +203,6 @@
     "Study Guides/ELECTRONICS STUDY GUIDE.md",
     "Study Guides/Untitled.md",
     "Study Guides/NETW2000 - Study Guide.md",
-    "Study Guides/PRGM 2000 - Bash Study Guide.md",
     "Study Guides/ELECTRONICS STUDY GUIDE.pdf",
     "Study Guides/SECR2000 - Study Guide.pdf",
     "Study Guides/PRGM 2000 - Bash Study Guide.pdf",
