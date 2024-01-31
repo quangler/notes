@@ -163,43 +163,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "e0169d81cb3485a4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b66f2cf7f6dfeeb7",
-        "type": "window",
-        "children": [
-          {
-            "id": "d1774c1467ad400f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ac70f99f4799a00c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Cutsheet.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2494,
-        "y": 63,
-        "width": 1589,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "34899d1111c9f49c",
   "lastOpenFiles": [
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Cutsheet.md",
