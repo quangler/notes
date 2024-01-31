@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 Documentation Section 1.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 Documentation Section 1.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 Documentation Section 1.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 Documentation Section 1.md"
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md"
               }
             }
           }
@@ -163,10 +163,53 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "e0169d81cb3485a4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b66f2cf7f6dfeeb7",
+        "type": "window",
+        "children": [
+          {
+            "id": "d1774c1467ad400f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac70f99f4799a00c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Cutsheet.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2494,
+        "y": 63,
+        "width": 1589,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "34899d1111c9f49c",
   "lastOpenFiles": [
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Cutsheet.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/End User Guide.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 Documentation Section 1.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/Cutsheet.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/3 ADFS - Certificate Services.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/2 RDS & VDI.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/1 Enterprise Storage (Week1 Day1).md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 notes.md",
     "Year 2/Sem 2/NET2400 - Internetworking/3 Intro to IPv6 Addressing.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
@@ -185,14 +228,10 @@
     "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
     "2024-01-23.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/Lab 1 Documentation Section.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/3 ADFS - Certificate Services.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/lab 1 notes 1.md",
     "Year 2/Sem 2/NET2400 - Internetworking/1 First Hop Redundancy Protocols.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/4 Cryptography (Part 1).md",
     "README.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/2 Introduction and Security Trends.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/1 General Security Concepts.md",
     "! Images/taqi signature.png",
     "! Images/taqi signature 1.png",
     "! Images/quinn signature.png",
@@ -201,8 +240,6 @@
     "! Images/quinn signature 1.png",
     "! Images",
     "Study Guides/AZ 900 Study Guide.pdf",
-    "Study Guides/ELECTRONICS STUDY GUIDE.md",
-    "Study Guides/Untitled.md",
     "Study Guides/ELECTRONICS STUDY GUIDE.pdf",
     "Study Guides/SECR2000 - Study Guide.pdf",
     "Study Guides/PRGM 2000 - Bash Study Guide.pdf",
