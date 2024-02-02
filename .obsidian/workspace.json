@@ -11,8 +11,12 @@
             "id": "a8ce21bcf278f91f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/3 Intro to IPv6 Addressing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/3 Intro to IPv6 Addressing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/3 Intro to IPv6 Addressing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 2/Sem 2/NET2400 - Internetworking/3 Intro to IPv6 Addressing.md"
+              }
             }
           }
         ],
@@ -157,6 +165,8 @@
   },
   "active": "a8ce21bcf278f91f",
   "lastOpenFiles": [
+    "Year 2/Sem 2/NETW2300 - Network Analysis/5 TCP-IP Transport Layer Protocols Part 2.md",
+    "Year 2/Sem 2/NETW2300 - Network Analysis/4 TCP-IP Transport Layer Protocols Part 1.md",
     "! Images/Pasted image 20240131194316.png",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/RDWeb User Guide.md",
     "! Images/Pasted image 20240131205157.png",
@@ -185,8 +195,6 @@
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/quiz notes.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/5 Cryptography (Part 2).md",
-    "Year 2/Sem 2/NETW2300 - Network Analysis/5 TCP-IP Transport Layer Protocols Part 2.md",
-    "Year 2/Sem 2/NETW2300 - Network Analysis/4 TCP-IP Transport Layer Protocols Part 1.md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/3 Working With Wireshark.md",
     "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/Lab 1 Documentation Section.md",
