@@ -8,7 +8,7 @@
 - `Remote Desktop Web Access` - `https://SRV5.BRUNSCO.SF/RDWeb` or `https://RDS.BRUNSCO.SF/RDWeb`  
 - Certificates are handled by a local self-signed certificate that is to be installed on all user's workstations through GPOs.  
 `RDS1` is in the `RDS Pool` server group that provide published remote apps for users.  
-***For user access guide to the RemoteApp programs: [[End User Guide]].***  
+***For user access guide to the RemoteApp programs: [[RDWeb User Guide]].***  
 ### RDS2  
 `RDS2` is the internal name for `SRV6`, it has remote desktop services installed with the following configuration:   
 **Remote Desktop Services:**  

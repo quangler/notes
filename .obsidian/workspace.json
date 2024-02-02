@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cc02b92c6ed1ff13",
+        "id": "f786a3d4b4225140",
         "type": "tabs",
         "children": [
           {
-            "id": "34899d1111c9f49c",
+            "id": "a8ce21bcf278f91f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "! Commands Page.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! Commands Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "! Commands Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "! Commands Page.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,23 +155,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34899d1111c9f49c",
+  "active": "a8ce21bcf278f91f",
   "lastOpenFiles": [
+    "! Images/Pasted image 20240131194316.png",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/RDWeb User Guide.md",
+    "! Images/Pasted image 20240131205157.png",
+    "! Images/Pasted image 20240131200410.png",
+    "! Images/Pasted image 20240129102715.png",
+    "! Images/Pasted image 20240114130127.png",
+    "! Images/Pasted image 20240114125416.png",
+    "! Images/Pasted image 20240109093133.png",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 notes.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 Documentation Section 1.md",
+    "! Images/Pasted image 20240131205509.png",
+    "! Images/Pasted image 20240131205151.png",
+    "! Images/Pasted image 20240131205046.png",
+    "! Commands Page.md",
     "2024-01-23.md",
     "README.md",
-    "! Images/Pasted image 20240129102914.png",
-    "! Images/Pasted image 20240129102715.png",
-    "! Images/Pasted image 20240129102804.png",
-    "! Images/Pasted image 20240129102843.png",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Cutsheet.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/End User Guide.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 Documentation Section 1.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/Cutsheet.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/3 ADFS - Certificate Services.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/2 RDS & VDI.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/1 Enterprise Storage (Week1 Day1).md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 notes.md",
     "Year 2/Sem 2/NET2400 - Internetworking/3 Intro to IPv6 Addressing.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md",
@@ -189,17 +188,10 @@
     "Year 2/Sem 2/NETW2300 - Network Analysis/5 TCP-IP Transport Layer Protocols Part 2.md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/4 TCP-IP Transport Layer Protocols Part 1.md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/3 Working With Wireshark.md",
-    "! Commands Page.md",
     "Year 2/Sem 2/NET2400 - Internetworking/2 Path Control Policy-Based Routing.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/Lab 1 Documentation Section.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/lab 1 notes 1.md",
     "Year 2/Sem 2/NET2400 - Internetworking/1 First Hop Redundancy Protocols.md",
-    "! Images/taqi signature.png",
-    "! Images/taqi signature 1.png",
-    "! Images/quinn signature.png",
-    "! Images/quinn signature 3.png",
-    "! Images/quinn signature 2.png",
-    "! Images/quinn signature 1.png",
     "! Images",
     "Study Guides/AZ 900 Study Guide.pdf",
     "Study Guides/ELECTRONICS STUDY GUIDE.pdf",
