@@ -11,6 +11,7 @@ IPv4 and IPv6 cannot directly communicate
 | no security added to the protocol | **IPsec** is built into IPv6 and can be used with a proper key infrastructure |
 | uses NAT to mask non-routable addresses | allows direct addressing due to its vast address space |
 | packet size of minimum 576 bytes required; <br>fragmentation optional | packet size of **1208** bytes required without fragmentation<br>**Fragmentation is done by the sending host only** (not the router) |
+
 ## Headers
 | IPv4 | IPv6 |
 | ---- | ---- |
