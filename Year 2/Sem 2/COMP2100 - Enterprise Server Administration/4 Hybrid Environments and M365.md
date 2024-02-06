@@ -52,3 +52,41 @@ where are your users - where do they authenticate
 
 follow user creation and user termination to a T.
 - documentation is key here
+
+# Intro to M365
+Microsoft's SaaS model (O365 is now M365)
+- M365 focus:
+	- teamwork / compatibility
+
+- learn to use Microsoft search function
+
+## Basic M365 Functionality
+- M365 apps (PowerPoint, Excel, Word, OneNote, Publisher, Access)
+- Email and Calendar (Outlook, Exchange)
+- Meetings / Voice / IM teams
+- intranet (SharePoint)
+- files / content (OneDrive, stream , sway, lists)
+## M365 Subscription Models
+4 basic M365 subscription models:
+- M365 Enterprise
+- M365 Business
+- M365 Education
+- M365 Home
+
+### M365 Business
+**M365 Business Basic**
+- basic m365 function
+- cloud only apps
+**M365 Business Standard**
+- basic m365 function
+- productivity tools
+- desktop apps
+
+**M365 Business Premium**
+- basic m365 function
+- management
+
+### M365 Users
+Two main types of users
+- Licensed Users
+- Unlicensed Users
