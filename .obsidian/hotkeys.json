@@ -1,0 +1,26 @@
+{
+  "copilot:eli5-prompt": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad9"
+    }
+  ],
+  "copilot:generate-glossary-prompt": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad8"
+    }
+  ],
+  "copilot:summarize-prompt": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad7"
+    }
+  ]
+}
