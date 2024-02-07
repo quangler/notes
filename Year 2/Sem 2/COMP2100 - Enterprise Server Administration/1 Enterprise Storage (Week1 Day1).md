@@ -7,6 +7,7 @@
 - block level storage
 - damn fast, used for bigger businesses
 - usually hardware raid
+- huge throughput
 **iSCSI** SAN - internet small computer system interface
 - block level access
 - hardware RAID

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Sem 1/COMP 1110/14 Configuring SAMBA.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/1 Enterprise Storage (Week1 Day1).md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Sem 1/COMP 1110/14 Configuring SAMBA.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/1 Enterprise Storage (Week1 Day1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Sem 1/COMP 1110/14 Configuring SAMBA.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/1 Enterprise Storage (Week1 Day1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Sem 1/COMP 1110/14 Configuring SAMBA.md"
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/1 Enterprise Storage (Week1 Day1).md"
               }
             }
           },
@@ -172,8 +172,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "233320c6ee911cf8",
+  "active": "a8ce21bcf278f91f",
   "lastOpenFiles": [
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Barett Exam Extortion.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Cutsheet.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 Documentation Section 1.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/RDWeb User Guide.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 notes.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/1 Enterprise Storage (Week1 Day1).md",
+    "Year 1/Sem 1/COMP 1110/14 Configuring SAMBA.md",
     "Year 1/Sem 1/COMP 1110/3 Glob Characters  Control Statements.md",
     "Year 1/Sem 1/COMP 1110/2 Files b} Directories.md",
     "Year 1/Sem 1/COMP 1110/19 All-encompassing COMP1110 Exam 5() Notes (I HOPE).md",
@@ -192,15 +200,7 @@
     "OneNote/COMP 1400 - Service Desk Fundamentals/Client Troubleshooting 2.md",
     "OneNote/COMP 1400 - Service Desk Fundamentals/COMP1400 - Review (MASTER REVIEW GUY!) 2.md",
     "Year 1/Sem 2/COMP 1400 - Service Desk Fundamentals/COMP1400 - Review (MASTER REVIEW GUY!).md",
-    "Year 1/Sem 2/COMP 1400 - Service Desk Fundamentals/Client Troubleshooting.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/3 Intro to IPv6 Addressing.md",
     "! Images/Intro 2 1.md/Exported image 20240206214411-0.jpeg",
-    "! Images/Intro 2 1.md",
-    "OneNote/COMP 1400 - Service Desk Fundamentals/Intro 2.md",
-    "OneNote/COMP 1400 - Service Desk Fundamentals/Intro part 2 2.md",
-    "OneNote/COMP 1400 - Service Desk Fundamentals/Service Desk Careers and Certificates 2.md",
-    "OneNote/COMP 1400 - Service Desk Fundamentals/Topic 3 Careers and Certs 2.md",
-    "OneNote/COMP 1400 - Service Desk Fundamentals/Ticketing Systems 2.md",
     "! Images/Intro 2.md/Exported image 20240206214354-2.jpeg",
     "! Images/PROBLEMS 2.md/Exported image 20240206214354-3.jpeg",
     "! Images/Exam 2 Troubleshooting Review 2.md/Exported image 20240206214354-0.jpeg",
