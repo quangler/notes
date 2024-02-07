@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Barett Exam Extortion.md",
+                "file": "OneNote/COMP2000/Identity, Governance, Privacy, and Compliance features.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Barett Exam Extortion.md",
+                "file": "OneNote/COMP2000/Identity, Governance, Privacy, and Compliance features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Barett Exam Extortion.md",
+                "file": "OneNote/COMP2000/Identity, Governance, Privacy, and Compliance features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Barett Exam Extortion.md"
+                "file": "OneNote/COMP2000/Identity, Governance, Privacy, and Compliance features.md"
               }
             }
           },
@@ -174,51 +174,51 @@
   },
   "active": "a8ce21bcf278f91f",
   "lastOpenFiles": [
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/RDWeb User Guide.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 Documentation Section 1.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Cutsheet.md",
+    "OneNote/COMP2000/Untitled.md",
+    "OneNote/COMP2000/Week 3 Day 1 - VMWare & cloud review.md",
+    "OneNote/COMP2000/Identity, Governance, Privacy, and Compliance features.md",
+    "OneNote/COMP2000/Hyper V Review (or something).md",
+    "OneNote/COMP2000/Hyper Converged Infrastructure (HCI).md",
+    "OneNote/COMP2000/General  Network Security Features.md",
+    "OneNote/COMP2000/Firewall.md",
+    "OneNote/COMP2000/enterprise virtualization & solutions architecture.md",
+    "OneNote/COMP2000/Cost management  SLAs.md",
+    "OneNote/COMP2000/AZURE Intro.md",
+    "OneNote/COMP2000/Azure Core Solutions  Management Tools.md",
+    "OneNote/COMP2000/Azure Compute Services.md",
+    "OneNote/COMP2000/Assignment 3.md",
+    "OneNote/COMP2000/Assignment 2 - Hyper V Build.md",
+    "OneNote/COMP2000/Assignment 2.md",
+    "OneNote/COMP2000/Assignment 1.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Barett Exam Extortion.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/1 Enterprise Storage (Week1 Day1).md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 notes.md",
-    "Year 1/Sem 1/COMP 1110/14 Configuring SAMBA.md",
-    "Year 1/Sem 1/COMP 1110/3 Glob Characters  Control Statements.md",
-    "Year 1/Sem 1/COMP 1110/2 Files b} Directories.md",
-    "Year 1/Sem 1/COMP 1110/19 All-encompassing COMP1110 Exam 5() Notes (I HOPE).md",
-    "Year 1/Sem 1/COMP 1000/21 13-14 test.md",
-    "Year 1/Sem 1/COMP 1000/10 TOPIC 9.1 - Remote Administration.md",
-    "Year 1/Sem 1/COMP 1000/9 Topic q . Clients, OV, x domain.md",
-    "Year 1/Sem 1/COMP 1000/7 Topic 7 Installing & Configuring DHCP (service).md",
-    "Year 1/Sem 1/COMP 1000/6 The Domain Name System (DNS).md",
-    "Year 1/Sem 1/COMP 1000/5 Windows Active Directors Domain Ser ice (ADDS) Topics.md",
-    "Year 1/Sem 1/COMP 1000/4 Windows Client environments.md",
-    "Year 1/Sem 1/COMP 1000/3 Client server Models.md",
-    "Year 1/Sem 1/COMP 1000/2 Printing.md",
-    "Year 1/Sem 1/COMP 1000/1 For exam 2 Exam Notes.md",
-    "OneNote/COMP 1400 - Service Desk Fundamentals/COMP1400 - Review (MASTER REVIEW GUY!) 1.md",
-    "OneNote/COMP 1400 - Service Desk Fundamentals/Client Troubleshooting 1.md",
-    "OneNote/COMP 1400 - Service Desk Fundamentals/Client Troubleshooting 2.md",
-    "OneNote/COMP 1400 - Service Desk Fundamentals/COMP1400 - Review (MASTER REVIEW GUY!) 2.md",
-    "Year 1/Sem 2/COMP 1400 - Service Desk Fundamentals/COMP1400 - Review (MASTER REVIEW GUY!).md",
-    "! Images/Intro 2 1.md/Exported image 20240206214411-0.jpeg",
-    "! Images/Intro 2.md/Exported image 20240206214354-2.jpeg",
-    "! Images/PROBLEMS 2.md/Exported image 20240206214354-3.jpeg",
-    "! Images/Exam 2 Troubleshooting Review 2.md/Exported image 20240206214354-0.jpeg",
-    "! Images/Day Zero 2.md/Exported image 20240206214354-2.jpeg",
-    "! Images/Why Can't I Ping 2.md/Exported image 20240206214354-3.jpeg",
-    "! Images/week 3 2.md/Exported image 20240206214354-2.jpeg",
-    "! Images/vlans guy 2.md/Exported image 20240206214354-3.jpeg",
-    "! Images/PROBLEMS 2.md/Exported image 20240206214354-2.jpeg",
-    "! Images/Intro 2.md/Exported image 20240206214354-1.jpeg",
+    "! Images/Series and Parallel circuits.md/Exported image 20240207094511-1.png",
+    "! Images/Project #1 Planning.md/Exported image 20240207094509-0.png",
+    "! Images/Untitled 2.md/Exported image 20240207094511-1.png",
+    "! Images/Electrical Test Instruments.md/Exported image 20240207094511-1.png",
+    "! Images/Lab 1 Calculations - Quinn.md/Exported image 20240207094511-1.png",
+    "! Images/Automation.md/Exported image 20240207094509-0.png",
+    "! Images/Bash - Loops and Conditions.md/Exported image 20240207094509-0.png",
+    "! Images/Lab 2 calculations - Quinn.md/Exported image 20240207094511-1.png",
+    "! Images/VOIP Protocols (SCCP  SIP).md/Exported image 20240207094509-0.png",
+    "! Images/Wireless History, Standards, and Protocols.md/Exported image 20240207094509-0.png",
+    "OneNote/SECR2000",
+    "! Images/Loops & Conditional Statements.md",
+    "OneNote/PRGM2000/Loops & Conditional Statements.md",
+    "! Images/PowerShell Scripts Best Practices.md",
+    "OneNote/PRGM2000/PowerShell Scripts Best Practices.md",
+    "! Images/Project #1 Planning.md",
+    "OneNote/PRGM2000/Project #1 Planning.md",
+    "! Images/Automation.md",
+    "OneNote/PRGM2000/Automation.md",
+    "! Images/Bash - Loops and Conditions.md",
+    "OneNote/PRGM2000",
+    "OneNote/NETW2100",
+    "OneNote/NETW2000",
+    "OneNote/ELTR1000",
+    "OneNote/COMP2000",
+    "OneNote",
     "Year 1/Sem 2/COMP 1400 - Service Desk Fundamentals",
     "Year 1/Sem 2/PROJ 1000",
-    "OneNote",
-    "Year 2/Sem 1/SECR2000",
-    "Year 2/Sem 1/PRGM2000",
-    "Year 2/Sem 1/NETW2100",
-    "Year 2/Sem 1/NETW2000",
-    "Year 2/Sem 1/ELTR1000",
-    "Year 2/Sem 1/COMP2000",
-    "OneNote/New Section 1"
+    "Year 2/Sem 1/SECR2000"
   ]
 }
