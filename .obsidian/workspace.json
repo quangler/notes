@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/4 Hybrid Environments and M365.md",
+                "file": "Year 1/Sem 1/COMP 1110/14 Configuring SAMBA.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/4 Hybrid Environments and M365.md",
+                "file": "Year 1/Sem 1/COMP 1110/14 Configuring SAMBA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/4 Hybrid Environments and M365.md",
+                "file": "Year 1/Sem 1/COMP 1110/14 Configuring SAMBA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/4 Hybrid Environments and M365.md"
+                "file": "Year 1/Sem 1/COMP 1110/14 Configuring SAMBA.md"
               }
             }
           },
@@ -168,56 +168,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a8ce21bcf278f91f",
+  "active": "233320c6ee911cf8",
   "lastOpenFiles": [
-    "Year 2/Sem 2/NETW2400 - Internetworking/4 Types of IPv6 addresses.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/4 Hybrid Environments and M365.md",
-    "! Images/Pasted image 20240206102542.png",
-    "! Images/Pasted image 20240206101119.png",
+    "Year 1/Sem 1/COMP 1110/3 Glob Characters  Control Statements.md",
+    "Year 1/Sem 1/COMP 1110/2 Files b} Directories.md",
+    "Year 1/Sem 1/COMP 1110/19 All-encompassing COMP1110 Exam 5() Notes (I HOPE).md",
+    "Year 1/Sem 1/COMP 1000/21 13-14 test.md",
+    "Year 1/Sem 1/COMP 1000/10 TOPIC 9.1 - Remote Administration.md",
+    "Year 1/Sem 1/COMP 1000/9 Topic q . Clients, OV, x domain.md",
+    "Year 1/Sem 1/COMP 1000/7 Topic 7 Installing & Configuring DHCP (service).md",
+    "Year 1/Sem 1/COMP 1000/6 The Domain Name System (DNS).md",
+    "Year 1/Sem 1/COMP 1000/5 Windows Active Directors Domain Ser ice (ADDS) Topics.md",
+    "Year 1/Sem 1/COMP 1000/4 Windows Client environments.md",
+    "Year 1/Sem 1/COMP 1000/3 Client server Models.md",
+    "Year 1/Sem 1/COMP 1000/2 Printing.md",
+    "Year 1/Sem 1/COMP 1000/1 For exam 2 Exam Notes.md",
+    "OneNote/COMP 1400 - Service Desk Fundamentals/COMP1400 - Review (MASTER REVIEW GUY!) 1.md",
+    "OneNote/COMP 1400 - Service Desk Fundamentals/Client Troubleshooting 1.md",
+    "OneNote/COMP 1400 - Service Desk Fundamentals/Client Troubleshooting 2.md",
+    "OneNote/COMP 1400 - Service Desk Fundamentals/COMP1400 - Review (MASTER REVIEW GUY!) 2.md",
+    "Year 1/Sem 2/COMP 1400 - Service Desk Fundamentals/COMP1400 - Review (MASTER REVIEW GUY!).md",
+    "Year 1/Sem 2/COMP 1400 - Service Desk Fundamentals/Client Troubleshooting.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/3 Intro to IPv6 Addressing.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/1 Enterprise Storage (Week1 Day1).md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Exam Notes I think.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/2 RDS & VDI.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/3 ADFS - Certificate Services.md",
-    "Year 2/Sem 2/NETW2300 - Network Analysis/6 TCP-IP - UDP.md",
-    "Year 2/Sem 2/NETW2300 - Network Analysis/5 TCP-IP Transport Layer Protocols Part 2.md",
-    "Year 2/Sem 2/NETW2300 - Network Analysis/4 TCP-IP Transport Layer Protocols Part 1.md",
-    "! Images/Pasted image 20240131194316.png",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/RDWeb User Guide.md",
-    "! Images/Pasted image 20240131205157.png",
-    "! Images/Pasted image 20240131200410.png",
-    "! Images/Pasted image 20240129102715.png",
-    "! Images/Pasted image 20240114130127.png",
-    "! Images/Pasted image 20240114125416.png",
-    "! Images/Pasted image 20240109093133.png",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 notes.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 Documentation Section 1.md",
-    "! Images/Pasted image 20240131205509.png",
-    "! Commands Page.md",
-    "2024-01-23.md",
-    "README.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Cutsheet.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab1/Cutsheet.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/quiz notes.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/5 Cryptography (Part 2).md",
-    "Year 2/Sem 2/NETW2300 - Network Analysis/3 Working With Wireshark.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/2 Path Control Policy-Based Routing.md",
-    "! Images",
-    "Study Guides/AZ 900 Study Guide.pdf",
-    "Study Guides/ELECTRONICS STUDY GUIDE.pdf",
-    "Study Guides/SECR2000 - Study Guide.pdf",
-    "Study Guides/PRGM 2000 - Bash Study Guide.pdf",
-    "Study Guides/NETW2100 - Integrated Communications Study Guide.pdf",
-    "Study Guides/NETW2000 - Study Guide.pdf",
-    "Study Guides",
-    "New folder",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security"
+    "! Images/Intro 2 1.md/Exported image 20240206214411-0.jpeg",
+    "! Images/Intro 2 1.md",
+    "OneNote/COMP 1400 - Service Desk Fundamentals/Intro 2.md",
+    "OneNote/COMP 1400 - Service Desk Fundamentals/Intro part 2 2.md",
+    "OneNote/COMP 1400 - Service Desk Fundamentals/Service Desk Careers and Certificates 2.md",
+    "OneNote/COMP 1400 - Service Desk Fundamentals/Topic 3 Careers and Certs 2.md",
+    "OneNote/COMP 1400 - Service Desk Fundamentals/Ticketing Systems 2.md",
+    "! Images/Intro 2.md/Exported image 20240206214354-2.jpeg",
+    "! Images/PROBLEMS 2.md/Exported image 20240206214354-3.jpeg",
+    "! Images/Exam 2 Troubleshooting Review 2.md/Exported image 20240206214354-0.jpeg",
+    "! Images/Day Zero 2.md/Exported image 20240206214354-2.jpeg",
+    "! Images/Why Can't I Ping 2.md/Exported image 20240206214354-3.jpeg",
+    "! Images/week 3 2.md/Exported image 20240206214354-2.jpeg",
+    "! Images/vlans guy 2.md/Exported image 20240206214354-3.jpeg",
+    "! Images/PROBLEMS 2.md/Exported image 20240206214354-2.jpeg",
+    "! Images/Intro 2.md/Exported image 20240206214354-1.jpeg",
+    "Year 1/Sem 2/COMP 1400 - Service Desk Fundamentals",
+    "Year 1/Sem 2/PROJ 1000",
+    "OneNote",
+    "Year 2/Sem 1/SECR2000",
+    "Year 2/Sem 1/PRGM2000",
+    "Year 2/Sem 1/NETW2100",
+    "Year 2/Sem 1/NETW2000",
+    "Year 2/Sem 1/ELTR1000",
+    "Year 2/Sem 1/COMP2000",
+    "OneNote/New Section 1"
   ]
 }

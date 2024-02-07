@@ -1,0 +1,1 @@
+![https://cdn.discordapp.com/attachments/1015420410667479072/1068251683739680888/image.png](Exported%20image%2020240206212129-0.png) ![https://cdn.discordapp.com/attachments/1015420410667479072/1068251662617157703/image.png](Exported%20image%2020240206212129-1.png)

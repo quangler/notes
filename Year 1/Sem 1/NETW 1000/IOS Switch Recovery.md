@@ -1,0 +1,1 @@
+(can also 'format flash:' in rommon mode)

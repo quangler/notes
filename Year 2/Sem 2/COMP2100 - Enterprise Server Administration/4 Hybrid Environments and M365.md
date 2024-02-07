@@ -72,7 +72,6 @@ Microsoft's SaaS model (O365 is now M365)
 - M365 Business
 - M365 Education
 - M365 Home
-
 ### M365 Business
 **M365 Business Basic**
 - basic m365 function
@@ -81,12 +80,20 @@ Microsoft's SaaS model (O365 is now M365)
 - basic m365 function
 - productivity tools
 - desktop apps
-
 **M365 Business Premium**
 - basic m365 function
 - management
-
 ### M365 Users
 Two main types of users
 - Licensed Users
 - Unlicensed Users
+### M365 Admin Roles - primary
+- Exchange Admin - full access to exchange
+- Global Admin - full access to everything
+- Global Reader - read only for everything
+- Helpdesk Admin - can re-auth users, change passwords
+- Service Support Admin - 
+- SharePoint Admin - full access to SharePoint
+- Teams Admin - full access to Teams
+- User Admin - can manage users
+Microsoft follows principle of least permission - exchange admin and global admin can lock you out
