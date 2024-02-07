@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OneNote/COMP2000/Identity, Governance, Privacy, and Compliance features.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OneNote/COMP2000/Identity, Governance, Privacy, and Compliance features.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OneNote/COMP2000/Identity, Governance, Privacy, and Compliance features.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OneNote/COMP2000/Identity, Governance, Privacy, and Compliance features.md"
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 notes.md"
               }
             }
           },
@@ -172,11 +172,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a8ce21bcf278f91f",
+  "active": "233320c6ee911cf8",
   "lastOpenFiles": [
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/3 ADFS - Certificate Services.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 notes.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/1 Enterprise Storage (Week1 Day1).md",
+    "! Commands Page.md",
+    "OneNote/COMP2000/Identity, Governance, Privacy, and Compliance features.md",
     "OneNote/COMP2000/Untitled.md",
     "OneNote/COMP2000/Week 3 Day 1 - VMWare & cloud review.md",
-    "OneNote/COMP2000/Identity, Governance, Privacy, and Compliance features.md",
     "OneNote/COMP2000/Hyper V Review (or something).md",
     "OneNote/COMP2000/Hyper Converged Infrastructure (HCI).md",
     "OneNote/COMP2000/General  Network Security Features.md",
@@ -206,11 +211,6 @@
     "OneNote/PRGM2000/Loops & Conditional Statements.md",
     "! Images/PowerShell Scripts Best Practices.md",
     "OneNote/PRGM2000/PowerShell Scripts Best Practices.md",
-    "! Images/Project #1 Planning.md",
-    "OneNote/PRGM2000/Project #1 Planning.md",
-    "! Images/Automation.md",
-    "OneNote/PRGM2000/Automation.md",
-    "! Images/Bash - Loops and Conditions.md",
     "OneNote/PRGM2000",
     "OneNote/NETW2100",
     "OneNote/NETW2000",
