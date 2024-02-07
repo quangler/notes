@@ -6,6 +6,11 @@ need to know:
 		**use DFS - this allows centralized shared folders to exist for replication, syncs to other server - can use dedupe**
 
 - know best practices for ADFS
+		ADFS - identity federation / web SSO for end users
+			used:
+			- your domain
+			- trusted domains / services
+			- in the cloud (m365/azure ad/ web sso)
 	- as per slide decks
 		standalone ADFS deployments not supported
 		need CA with certs
@@ -68,8 +73,9 @@ need to know:
  **`Remote Desktop Connection Broker` - load distribution across RD session hosts - allows users to reconnect to their VM**
 - **`Remote Desktop Gateway` - authentication to remote apps / VMs / etc.**  
 - **`Remote Desktop Licensing`  - allows managing client access licenses - required for connecting to a remote desktop session host server**
-- **`Remote Desktop Session Host`  - allows a server to host remote apps, or by virtual desktops**
-- **`Remote Desktop Web Access` - allows users to access remote apps through the start menu or through browser** 
+- **`Remote Desktop Session Host`  - allows a server to host remote apps
+- **`Remote Desktop Web Access` - allows users to access remote apps through the start menu or through browser**
+- **`Remote Desktop Virtualization Host` - lets users connect to virtual desktops**
 
 - limitations of specific RDS deployments
 
