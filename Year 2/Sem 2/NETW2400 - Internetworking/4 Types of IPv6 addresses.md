@@ -75,7 +75,7 @@ IPv6 standard specifies that a router needs to recognize the following addresses
 - link-local address for each interface
 - assigned unicast addresses
 - loopback address
-- all-nodes multicast addres
+- all-nodes multicast address
 - **all-routers** multicast address
 - subnet-router anycast address for the interfaces for which it is configured to act as a router on each link
 - anycast addresses with which the router had been configured

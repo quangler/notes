@@ -262,7 +262,7 @@ channel-group 1 mode active
 
 interface port-channel 1
 switchport mode trunk
-swichport trunk nive vlan 999
+swichport trunk native vlan 999
 ```
 #### ACLs - Access Control Lists
 ```RemoteACL
