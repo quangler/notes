@@ -27,3 +27,9 @@ security best practices for M365:
 - in the lectures
 
 **document how the entra connect deployment was setup**
+
+
+## Decommissioning
+Servers were removed from domain and shut down.
+Removed DNS records and Disabled VDI and RDS
+- all other servers were automatically removed

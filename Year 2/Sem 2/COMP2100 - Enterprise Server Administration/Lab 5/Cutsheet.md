@@ -1,9 +1,10 @@
+
 | Hostname | Roles / Services | Internal IP | VMNET / VLAN | External IP | Default Gateway | External Ports | Notes |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Admin1.brunsco.sf | Admin workstation | 172.30.0.100/24 (DHCP) | VMNET15 | N/A | 172.30.0.1 | N/A | Used for administering the servers remotely. |
 | Client1.brunsco.sf | Client Workstation | 172.30.0.101/24<br>(DHCP) | VMNET15 | N/A | 172.30.0.1 | N/A | Used for testing client access to services. |
 | SRV1.brunsco.sf | DC, DNS, DHCP, File Server | 172.30.0.5/24 | VMNET15 | N/A | 172.30.0.1 | N/A | DC1, Used as main DNS server for network. |
-| SRV2.brunsco.sf | DC, DNS, File Server, Print Server | 172.30.0.6/24 | VMNET15 | N/A | 172.30.0.1 | N/A | DC2 - used for replication. |
+| SRV2.brunsco.sf<br> | DC, DNS, File Server, Print Server, Azure AD Connect  | 172.30.0.6/24 | VMNET15 | N/A | 172.30.0.1 | N/A | DC2 - Used for replicating on-prem to Azure environment. Command for forcing replication:<br>`Start-ADSyncSyncCycle -PolicyType Delta` |
 | SRV3.brunsco.sf | File Server, DFS Namespace, DFS Replica, Data Dedupliation | 172.30.0.7/24 | VMNET15 | N/A | 172.30.0.1 | N/A | FS1 - namespace server, primary member for replication. |
 | SRV4.brunsco.sf<br>**DECOMMISSIONED** | File Server 2, DFS Replica | 172.30.0.8/24 | VMNET15 | N/A | 172.30.0.1 | N/A | FS2 - DFS replication between FS1 & FS2. |
 | SRV5.brunsco.sf<br>RDS.brunsco.sf<br>**DECOMMISSIONED** | Remote Desktop Services: (Broker, Gateway, Licensing, Session Host, Web Access)  | 172.30.0.9/24 | VMNET15 | N/A | 172.30.0.1 | N/A | RDS1 - Session-based deployment<br>`https://rds.brunsco.sf/RDWeb`. |
