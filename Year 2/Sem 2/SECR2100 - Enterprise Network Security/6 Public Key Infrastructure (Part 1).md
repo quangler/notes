@@ -1,4 +1,4 @@
-**PKI is based on trust.**
+p**PKI is based on trust.**
 **PKI - Public Key Infrastructure** is all components that are necessary for different types of users and entities to be able to communicate securely and in a predictable manner.
 - communication takes place using public key cryptography and symmetric keys for digital signature, data encryption, and integrity.
 PKI environments have entities called **registration authorities (RAs)** and **certificate authorities (CAs)** - these entities provide services similar to a DMV

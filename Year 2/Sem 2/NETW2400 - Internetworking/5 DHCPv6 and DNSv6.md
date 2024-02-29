@@ -73,10 +73,12 @@ ipv6 dhcp relay destination <IPV6_DHCPv6Server>
 
 DHCPv6 Commands:
 ```SLAAC
-ipv6 unicast routing
+ipv6 unicast-routing
+int g1/0/1
 no ipv6 nd supress-ra ! this is default
 ```
 ```Stateful DHCPv6
+int g1/0/1
 ipv6 nd managed-config-flag
 ipv6 dhcp server <POOL-NAME>
 
@@ -86,6 +88,7 @@ dns-server <dns-address>
 domain-name <domain-name>
 ```
 ```Stateless DHCPv6
+int g1/0/1
 ipv6 nd other-config-flag
 ipv6 dhcp server <POOL-NAME>
 
