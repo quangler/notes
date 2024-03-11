@@ -43,8 +43,8 @@ Discover, Offer, Request, Acknowledgement
 **Options** - DHCP Options - subnet mask, router IP, domain name, DNS server IP
 ### Wireshark Filters
 `dhcp`
-`udp.port == 67` for client
-`udp.port == 68` for server
+`udp.port == 67` server listens on port 67
+`udp.port == 68` client listens on port 68
 `dhcp.type == 1` DHCP requests
 `dhcp.type == 2`  DHCP replies
 `dhcp.ip.your == x.x.x.x` displays packets where the IP `x.x.x.x` is offered

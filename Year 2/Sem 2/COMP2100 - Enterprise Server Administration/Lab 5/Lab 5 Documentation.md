@@ -1,7 +1,10 @@
+### Accounts
 
-| Account Name | Password                                                                                                                         |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| Break Glass  | q1jUg3gPsDBUztMr62SY7wa41s5r9Eu53BwCwsGj37kKBmXLE22lVah4N8Ne5ge9U5XxkJArfM7hIpaiqC2CHmfa6x4cNye4B4y2qU046C9ZiqLj99J6z0R895u1lyQ8 |
+| Account Name                    | Password                             |
+| ------------------------------- | ------------------------------------ |
+| quinn@qpc210024.onmicrosoft.com | `**********`                         |
+| quinnadmin@quinndomain.ca       | `**********`                         |
+| breakglass@quinndomain.ca       | `**********************************` |
 ### External DNS Configuration
 **Domain:** quinndomain.ca
 **Hosted on:** GoDaddy.com
@@ -27,8 +30,9 @@ This script was used to automatically change accounts from using the `brunsco.sf
 PS C:\> $LocalUsers = Get-ADUser -Filter {UserPrincipalName -like '*brunsco.sf'} -Properties UserPrincipalName -ResultSetSize $null
 PS C:\> $LocalUsers | foreach {$newUpn = $_.UserPrincipalName.Replace("brunsco.sf","quinndomain.ca"); $_ | Set-ADUser -UserPrincipalName $newUpn}
 ```
-This script was taken from https://www.alitajran.com/change-users-upn-with-powershell/.
+This script was taken from https://www.alitajran.com/change-users-upn-with-powershell/ and modified to fit the current domains.
 
+This script was used to automatically assign users proxy addresses for their main email addresses. Users can send and receive emails from their `<user>@quinndomain.ca`, and receive email from their `<user>@qpc210024.onmicrosoft.com`.
 ```Proxy-Address.ps1
 # Import the Active Directory module
 Import-Module ActiveDirectory
@@ -46,3 +50,5 @@ foreach ($user in $users) {
     Set-ADUser -Identity $user.SamAccountName -Add @{proxyAddresses = $proxyAddress1, $proxyAddress2}
 }
 ```
+
+
