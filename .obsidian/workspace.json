@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8ce21bcf278f91f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Cutsheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a0182cbeed85a6ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md"
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md"
               }
             }
           },
@@ -187,10 +174,11 @@
   },
   "active": "a0182cbeed85a6ec",
   "lastOpenFiles": [
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/8 - Authentication Part 1.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/8 - Authentication Part 1.md",
-    "Year 2/Sem 2/NETW2300 - Network Analysis/10 - ICMP.md",
+    "Year 2/Sem 2/NETW2300 - Network Analysis/10 TCP-IP - ICMP.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Lab 6 notes.md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/9 TCP-IP - DHCP.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Cutsheet.md",
     "! Images/Pasted image 20240306200053.png",
@@ -216,7 +204,6 @@
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 Documentation.html",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 Documentation.pdf",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/How to Guides.pdf",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Lab 6 notes.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/5 Microsoft Teams Administration.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 4/Lab 4 Documentation.md",
