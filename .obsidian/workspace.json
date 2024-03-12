@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
+                "file": "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
+                "file": "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
+                "file": "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md"
+                "file": "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "a0182cbeed85a6ec",
   "lastOpenFiles": [
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/8 - Authentication Part 1.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
+    "Year 2/Sem 2/NETW2400 - Internetworking/Untitled.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/8 - Authentication Part 1.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/10 TCP-IP - ICMP.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Lab 6 notes.md",
@@ -217,7 +218,6 @@
     "Year 1/Sem 2/COMP 1200 - Server Administration/Connor last test review.md",
     "Year 1/Sem 2/COMP 1200 - Server Administration/BACKUPS 2 (do this).md",
     "Year 2/Sem 2/NETW2400 - Internetworking/5 DHCPv6 and DNSv6.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/openSSL.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 1/Untitled.canvas",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 3",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 4"

@@ -181,3 +181,40 @@ ipv6 router ospf 1
 ipv6 router ospf 1
 ! area 0 encryption ipsec spi 500 esp <PUT ENCRYPTION HERE> sha1 1234567890123456789012345678901234567890
 ```
+
+### OSPFv3 for IPv4 and IPv6 with Address Families
+Address Families also work EIGRP and BGP too.
+OSPFv2 supports ONLY IPv4 and OSPFv3 supports ONLY IPv6.
+- OSPFv3 can support IPv4 *and* IPv6 with the use of **Address Families**
+- OSPFv3 with **AF (address families)** share the same **neighbor table and link state database for IPv4 and IPv6.**
+```R3-address-family-commands
+ip route 0.0.0.0 0.0.0.0 192.168.77.2
+ipv6 route ::0/0 2001:db8:77::2
+ipv6 unicast-routing
+router ospfv3 1
+! address-family ! can either do ipv4 or ipv6 - do a ?
+address-family ipv4 unicast
+router-id 3.3.3.3
+default-information originate
+passive-interface f0/1
+exit-address-family
+address-family ipv6 unicast
+router-id 3.3.3.6 ! can possibly make the same as the ipv4?
+default-information originate
+passive-interface f0/1
+```
+
+```R3-enable-ospfv3
+int s0/0/0
+ospfv3 1 ipv4 area 0
+ospfv3 1 ipv6 area 0
+```
+
+```info-commands-ospfv3
+show ospfv3 neighbor
+show ospfv3 database
+```
+
+**IPv4**: `show ip ospf neighbor`
+**IPv6**: `show ipv6 ospf neighbor`
+**Address Families**: `show ospfv3 neighbor`
