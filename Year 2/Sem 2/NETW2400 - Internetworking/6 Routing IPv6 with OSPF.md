@@ -156,11 +156,11 @@ ipv6 ospf authentication ipsec spi 300 sha1 123456789012345678901234567890123456
 ##### Authentication and Encryption
 ```R1-Authentication-and-Encryption
 int f0/1
-ipv6 ospf encryption ipsec spi 300 esp null sha1 1234567890123456789012345678901234567890
+ipv6 ospf encryption ipsec spi 300 esp <PUT ENCRYPION HERE> sha1 1234567890123456789012345678901234567890
 ```
 ```R2-Authentication-and-Encryption
 int f0/1
-ipv6 ospf encryption ipsec spi 300 esp null sha1 1234567890123456789012345678901234567890
+ipv6 ospf encryption ipsec spi 300 esp <PUT ENCRYPION HERE> sha1 1234567890123456789012345678901234567890
 ```
 #### Per Area:
 ##### Authentication only
@@ -218,3 +218,83 @@ show ospfv3 database
 **IPv4**: `show ip ospf neighbor`
 **IPv6**: `show ipv6 ospf neighbor`
 **Address Families**: `show ospfv3 neighbor`
+
+```LAB7-Config
+hostname R2
+enable secret P@ssw0rd
+username admin password P@ssw0rd
+ip domain name quinn.temp
+crypto key generate rsa modulus 1024
+ip ssh v 2
+!
+line vty 0 15
+login local
+transport input ssh
+!
+int g3
+ ip address 172.16.105.77 255.255.255.0
+ no shut
+!
+line con 0
+ logg syn
+!
+ipv6 unicast-routing
+!
+interface Loopback1
+ ip address 192.168.22.22 255.255.255.255
+ ipv6 address 2001:db8:0:b::1/64
+ ipv6 address FE80::2 link-local
+ description Loopback adapter
+ no shutdown
+!
+interface g1
+ ipv6 enable
+ ip address 10.0.0.2 255.255.255.252
+ ipv6 address 2001:db8:0:1::2/64
+ ipv6 address FE80::2 link-local
+ no shutdown
+!
+int g2
+ no shutdown
+ no ip address
+!
+interface g2.20
+ encapsulation dot1q 20
+ ipv6 enable	
+ ip address 10.20.20.2 255.255.255.0
+ ipv6 address 2001:db8:2:20::2/64
+ ipv6 address FE80::2 link-local
+ no shutdown
+!
+ ipv6 nd managed-config-flag
+ ipv6 dhcp relay destination 2001:DB8:0:10::10
+!
+ip helper-address 10.10.10.10
+!
+router ospfv3 1
+ address-family ipv4 unicast
+ router-id 2.2.2.2
+ passive-interface lo 1
+ passive-interface g2.20
+ exit-address-family
+address-family ipv6 unicast
+ router-id 2.2.2.6
+ passive-interface lo 1
+ passive-interface g2.20
+exit-address-family
+!
+interface g1
+ ospfv3 1 ipv4 area 0
+ ospfv3 1 ipv6 area 0
+ ipv6 ospf network point-to-point
+!
+interface g2.20
+ ospfv3 1 ipv4 area 0
+ ospfv3 1 ipv6 area 0
+ ipv6 ospf network point-to-point
+!
+interface lo 1
+ ospfv3 1 ipv4 area 0
+ ospfv3 1 ipv6 area 0
+ ipv6 ospf network point-to-point
+```

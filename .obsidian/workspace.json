@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f786a3d4b4225140",
+        "id": "60078ea670dee510",
         "type": "tabs",
         "children": [
           {
-            "id": "a0182cbeed85a6ec",
+            "id": "97ee0644256bb3aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
+                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/11 Troubleshooting with Wireshark.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f8814d3195c4cdd6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.md",
+                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/11 Troubleshooting with Wireshark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.md",
+                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/11 Troubleshooting with Wireshark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.md"
+                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/11 Troubleshooting with Wireshark.md"
               }
             }
           },
@@ -184,19 +173,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8814d3195c4cdd6",
+  "active": "97ee0644256bb3aa",
   "lastOpenFiles": [
+    "Year 2/Sem 2/Drawing 2024-03-17 13.35.39.excalidraw.md",
+    "Year 2/Sem 2/NETW2300 - Network Analysis/11 Troubleshooting with Wireshark.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Year 2/Sem 2/NETW2400 - Internetworking/5 DHCPv6 and DNSv6.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Untitled.md",
+    "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.png",
     "! Commands Page.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/Untitled.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/8 - Authentication Part 1.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/3 ADFS - Certificate Services.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 3/Lab 3 Documentation.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/6 Public Key Infrastructure (Part 1).md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/4 Cryptography (Part 1).md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/3 People in Security.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/2 Introduction and Security Trends.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/1 General Security Concepts.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
-    "Year 2/Sem 2/NETW2300 - Network Analysis/10 TCP-IP - ICMP.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/openSSL.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/presentation question.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/5 Cryptography (Part 2).md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Lab 6 notes.md",
-    "Year 2/Sem 2/NETW2300 - Network Analysis/9 TCP-IP - DHCP.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Cutsheet.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Commands Page.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/5 Microsoft Teams Administration.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/4 Hybrid Environments and M365.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/1 Enterprise Storage (Week1 Day1).md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 7",
     "! Images/Pasted image 20240306200053.png",
     "! Images/Pasted image 20240131204426.png",
     "! Images/Pasted image 20240129102715.png",
@@ -206,32 +213,15 @@
     "! Images/1 quinn.png",
     "! Images/Untitled 3.md/Exported image 20240207094508-2.png",
     "! Images/Untitled 3.md/Exported image 20240207094508-1.png",
-    "! Images/Series and Parallel circuits.md/Exported image 20240207094508-0.png",
-    "presentation notes.md",
-    "Presentation.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 Documentation.md",
-    "2024-01-23.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Name Change Guide.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Name Change Guide.html",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/New User Guide.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/New User Guide.html",
     "Untitled",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 Documentation.html",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 Documentation.pdf",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/How to Guides.pdf",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/5 Microsoft Teams Administration.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 4/Lab 4 Documentation.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 4/Cutsheet.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 4/Lab 4 notes.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 3/Lab 3 Documentation.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5",
-    "Year 2/Sem 2/NETW2300 - Network Analysis/6 TCP-IP - UDP.md",
-    "Year 2/Sem 2/NETW2300 - Network Analysis/8 TCP-IP - FTP.md",
-    "Year 1/Sem 2/COMP 1200 - Server Administration/Connor last test review.md",
-    "Year 1/Sem 2/COMP 1200 - Server Administration/BACKUPS 2 (do this).md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 1/Untitled.canvas",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 3",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 4"
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 3"
   ]
 }

@@ -21,7 +21,7 @@ everyone/everything uses Entra AD
 - device management - what devices you can sign in to
 
 ## Entra AD Connect
-- synchronizes AD with Entra AD Connect
+- synchronizes AD with Entra AD 
 - allows features such as;
 	- self serve password reset
 	- MFA

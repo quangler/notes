@@ -44,6 +44,32 @@ DEMO:
 also a bunch of stuff exists under the admin panel
 - see teams, manage users in teams, *some* policies 
 
-MARCH 13 EXAM:
-- HYBRID, EXCHANGE, TEAMS
-- same length as last time, fewer written response
+
+
+
+
+
+
+```TICKET-1
+Resource group was created for jet@quinndomain.ca
+Full access and delegation rights were granted to Marion. Set owner of mailbox with this command:
+- Set-MailboxFolderPermission -Identity jet@quinndomain.ca:\Calendar -User "D'AmicoMari@quinndomain.ca" -AccessRights Owner
+
+Used these PowerShell commands to assign Waylon Smithers and Charles Montgomery Burns as PublishedAuthors for the mailbox permissions: 
+
+- Add-MailboxFolderPermission -Identity jet@quinndomain.ca:\Calendar -User "WaylonSmit@quinndomain.ca" -AccessRights publishingauthor
+- Add-MailboxFolderPermission -Identity jet@quinndomain.ca:\Calendar -User "CharlesMontgomeryBur@quinndomain.ca" -AccessRights publishingauthor
+
+Default had permissions removed so that only the allowed users could view/book the jet. Command:
+- Set-MailboxFolderPermission -Identity jet@quinndomain.ca:\calendar -User default -AccessRights none
+```
+
+```TICKET-2
+$resource = "FT0001"
+$user1 = "default"
+$user2 = "MarionD'Am@quinndomain.ca"
+Set-MailboxFolderPermission -Identity "$resource@quinndomain.ca:\Calendar" -User $user1 -AccessRights PublishingAuthor
+Add-MailboxFolderPermission -Identity "$resource@quinndomain.ca:\Calendar" -User $user2 -AccessRights Owner
+Get-MailboxFolderPermission -Identity "$resource@quinndomain.ca:\Calendar"
+```
+

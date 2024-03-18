@@ -291,7 +291,7 @@ ip access-group Name2IN in
 hostname S1
 enable secret cisco
 username admin password class
-ip domain-name bubba.local
+ip domain name bubba.local
 crypto key generate rsa modulus 1024
 ip ssh v 2
 
