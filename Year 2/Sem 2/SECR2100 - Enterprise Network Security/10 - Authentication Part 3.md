@@ -7,6 +7,7 @@ until a client has successfully authenticated themselves - only Extensible authe
 - EAPOL is an encapsulation method of passing EAP messages over 802.1 frames. EAP supports: one-time passwords, Kerberos, public keys, and security devices (like smart cards).
 - Once a client successfully authenticates themself to the 802.1X device, switch port opens for normal traffic.
 802.1x is commonly used on wireless access points as a port-based authentication service prior to admission the wireless network
+- wireless access points use 802.11i or EAP ??
 
 ### RADIUS
 Remote Authentication Dial-In User Service (RADIUS) is a AAA protocol

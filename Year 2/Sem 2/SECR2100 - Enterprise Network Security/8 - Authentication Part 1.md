@@ -64,8 +64,8 @@ Form of authentication that involves transferring of credentials between systems
 
 ### Tokens
 A token is an authentication factor that is typically a physical or logical entity that the user must possess to access their account or resource.
-- physical tokens display a series of numbers that changes ever 30 to 90 seconds
-- software tokens still provide two-factory authentication but do not require the user to have a physical device on hand
+- physical tokens display a series of numbers that changes every 30 to 90 seconds
+- software tokens still provide two-factor authentication but do not require the user to have a physical device on hand
 
 ### Account and Password Expiration
 - an account expiration / password expiration feature allows admins to specify a period of time for which a password or an account will be active
@@ -83,9 +83,9 @@ A token is an authentication factor that is typically a physical or logical enti
 ### Security Controls and Permissions (NFS vs NTFS)
 most OS's use permissions and right to control access to resources
 Windows uses:
-- permissions and right to control access to files, folders, and information resources
+- permissions and rights to control access to files, folders, and information resources (NFS)
 - user rights or privileges to determine actions a user or group is allowed to perform
-remember concept of least privilege
+remember concept of least privilege (NTFS)
 
 **NFS** - who can get to an object, **NTFS** - how they can interact with the object
 #### NTFS Permissions:

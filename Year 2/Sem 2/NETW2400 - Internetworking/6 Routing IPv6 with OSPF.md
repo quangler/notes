@@ -231,9 +231,9 @@ line vty 0 15
 login local
 transport input ssh
 !
-int g3
- ip address 172.16.105.77 255.255.255.0
- no shut
+!int g3
+! ip address 172.16.105.77 255.255.255.0
+! no shut
 !
 line con 0
  logg syn
@@ -247,18 +247,18 @@ interface Loopback1
  description Loopback adapter
  no shutdown
 !
-interface g1
+interface g0/0
  ipv6 enable
  ip address 10.0.0.2 255.255.255.252
  ipv6 address 2001:db8:0:1::2/64
  ipv6 address FE80::2 link-local
  no shutdown
 !
-int g2
+int g0/1
  no shutdown
  no ip address
 !
-interface g2.20
+interface g0/1.20
  encapsulation dot1q 20
  ipv6 enable	
  ip address 10.20.20.2 255.255.255.0
@@ -275,20 +275,20 @@ router ospfv3 1
  address-family ipv4 unicast
  router-id 2.2.2.2
  passive-interface lo 1
- passive-interface g2.20
+ passive-interface g0/1.20
  exit-address-family
 address-family ipv6 unicast
  router-id 2.2.2.6
  passive-interface lo 1
- passive-interface g2.20
+ passive-interface g0/1.20
 exit-address-family
 !
-interface g1
+interface g0/0
  ospfv3 1 ipv4 area 0
  ospfv3 1 ipv6 area 0
  ipv6 ospf network point-to-point
 !
-interface g2.20
+interface g0/1.20
  ospfv3 1 ipv4 area 0
  ospfv3 1 ipv6 area 0
  ipv6 ospf network point-to-point

@@ -39,7 +39,7 @@ Used to negotiate credentials across the web
 2. server responds with a challenge and provides a nonce
 3. client hashes the password and nonce
 4. the client returns the hashed password to the server
-5. the server requests the password from a password store
+5. the server requests the password hash from a password store
 6. the server hashes the password and nonce
 7. if both hashes match, login is granted
 ### Kerberos Authentication
