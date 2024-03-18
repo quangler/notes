@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
+                "file": "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
+                "file": "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
+                "file": "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md"
+                "file": "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md"
               }
             }
           },
@@ -175,12 +175,13 @@
   },
   "active": "97ee0644256bb3aa",
   "lastOpenFiles": [
+    "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.png",
+    "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.md",
+    "Year 2/Sem 2/Drawing 2024-03-17 13.35.39.excalidraw.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/8 - Authentication Part 1.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.png",
     "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
-    "Year 2/Sem 2/Drawing 2024-03-17 13.35.39.excalidraw.md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/11 Troubleshooting with Wireshark.md",
     "Untitled.md",
     "Untitled.canvas",
@@ -195,14 +196,12 @@
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/2 Introduction and Security Trends.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/1 General Security Concepts.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/openSSL.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/presentation question.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/5 Cryptography (Part 2).md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Lab 6 notes.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Commands Page.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/5 Microsoft Teams Administration.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 7",
     "! Images/Pasted image 20240306200053.png",
     "! Images/Pasted image 20240131204426.png",
