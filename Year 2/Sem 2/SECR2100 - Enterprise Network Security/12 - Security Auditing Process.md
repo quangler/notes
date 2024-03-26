@@ -59,3 +59,11 @@ Accounting - collecting information about the network
 - record/check who has access to sensitive data
 - implement encryption best practices
 - regularly review logs to keep human errors at a minimum
+
+#### Auditing: on the test bro
+**GPO:**
+Computer Configuration > Policies > Windows Settings > Security Policies > Local Policies > Audit Policies > Audit Object Access
+- check success and failure
+**Folder:**
+right click > properties > security tab > advanced > auditing tab > add
+- add who you want to audit, and select audit on both success and fail
