@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md"
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md"
               }
             }
           },
@@ -175,13 +175,19 @@
   },
   "active": "97ee0644256bb3aa",
   "lastOpenFiles": [
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/12 - Security Auditing Process.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/8 Multi Factor Authentication.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Lab 6 notes.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/7 DLP & Data Legislation.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8",
+    "! Images/Pasted image 20240326141141.png",
     "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md",
+    "! Commands Page.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/12 - Security Auditing Process.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/openSSL.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/presentation question.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/quiz notes.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/11 - System Hardening and Baselines.md",
-    "! Commands Page.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/5 DHCPv6 and DNSv6.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/4 Types of IPv6 addresses.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/3 Intro to IPv6 Addressing.md",
@@ -190,7 +196,6 @@
     "Year 2/Sem 2/NETW2300 - Network Analysis/11 Troubleshooting with Wireshark.md",
     "Year 2/Sem 2/Drawing 2024-03-17 13.35.39.excalidraw.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Cutsheet.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Lab 6 notes.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Commands Page.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 7/Demo Notes.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
@@ -199,10 +204,7 @@
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/8 - Authentication Part 1.md",
-    "Untitled.md",
     "Untitled.canvas",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/3 ADFS - Certificate Services.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 3/Lab 3 Documentation.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 7",
     "! Images/Pasted image 20240306200053.png",
     "! Images/Pasted image 20240131204426.png",
@@ -212,7 +214,6 @@
     "! Images/Wireless History, Standards, and Protocols.md/Exported image 20240207094508-4.png",
     "! Images/1 quinn.png",
     "! Images/Untitled 3.md/Exported image 20240207094508-2.png",
-    "! Images/Untitled 3.md/Exported image 20240207094508-1.png",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Name Change Guide.html",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/New User Guide.html",
     "Untitled",
@@ -221,7 +222,6 @@
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/How to Guides.pdf",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 1/Untitled.canvas",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 3"
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 1/Untitled.canvas"
   ]
 }
