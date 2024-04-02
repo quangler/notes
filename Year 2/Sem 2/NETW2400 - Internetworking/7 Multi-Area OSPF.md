@@ -58,7 +58,7 @@ All areas must interconnect to the backbone area (area 0)
 | 3         | Summary LSA for ABRs           | **Produced by ABRs** - sent into an area to advertise destinations outside the area                                                         | used by ABRs for between areas                                                   |
 | 4         | Summary LSA for ASBRs          | **Originated by ABRs** - sent into area by ABR to advertise the IP addresses of the ASBRs                                                   | ABRs send summary information when there is an ASBR                              |
 | 5         | Autonomous System External LSA | **Originated by ASBRs** - flooded through the whole OSPF autonomous system - advertises destinations external to the OSPF autonomous system | area connected to external network, advertised by ASBR                           |
-| 7         | NSSA External LSA              | **Originated by ASBRs in an NSSA** - not flooded through the OSP AS but only to NSSA - similar to Type 5                                    | ASBR advertising external network - turns into LSA 5 by ABRs                     |
+| 7         | NSSA External LSA              | **Originated by ASBRs in an NSSA** - not flooded through the OSPF AS but only to NSSA - similar to Type 5                                   | ASBR advertising external network - turns into LSA 5 by ABRs                     |
 
 ### OSPF LSA Messages and Areas
 **Normal Areas**
@@ -112,13 +112,11 @@ network 192.168.10.1 0.0.0.0 area 0
 `area 13 nssa default-information-originate` (lets ABR inject the default route info from NSSA)
 `area 13 nssa no-summary` (act as totally stubby area - no LSA 3)
 
-```
-
-
 OSPF Route summarization is not done automatically, but it can be helpful:
 ```route-summarization
 area 1 range 192.168.0.0 255.255.252.0 ! this will be a range of 192.168.0.1-192.168.3.254
 ```
+`redistribute connected subnets` - used on ASBR, generates external route into NSSA area
 
 ```Helpful-Commands
 show ip ospf neighbor

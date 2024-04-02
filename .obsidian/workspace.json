@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "60078ea670dee510",
+        "id": "7dc56db4e8aab0bc",
         "type": "tabs",
         "children": [
           {
-            "id": "97ee0644256bb3aa",
+            "id": "40048c63a51aef1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,16 +165,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97ee0644256bb3aa",
+  "active": "40048c63a51aef1f",
   "lastOpenFiles": [
+    "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md",
+    "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.md",
+    "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
+    "! Commands Page.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/8 Multi Factor Authentication.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Lab 6 notes.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/7 DLP & Data Legislation.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8",
     "! Images/Pasted image 20240326141141.png",
-    "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md",
-    "! Commands Page.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/12 - Security Auditing Process.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/openSSL.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/presentation question.md",
@@ -198,9 +192,7 @@
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Cutsheet.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Commands Page.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 7/Demo Notes.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.png",
-    "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/10 - Authentication Part 3.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/9 - Authentication Part 2.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/8 - Authentication Part 1.md",
