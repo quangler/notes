@@ -10,10 +10,11 @@
 
 - [ ] Description of each area type
 	- [ ] backbone (?)
-	- [ ] normal
-	- [ ] stubby
-	- [ ] totally stubby
-	- [ ] not so stubby
+	- [ ] normal (?)
+	- [ ] stub area
+	- [ ] totally stub area
+	- [ ] not-so-stubby area
+	- [ ] totally not-so-stubby area
 
 - [ ] Description of OSPF Router types
 	- [ ] designated router

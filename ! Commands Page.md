@@ -303,10 +303,14 @@ transport input ssh
 #### OSPF - Open Shortest Path First
 ```OSPF
 router ospf 1
-router-id 1.1.1.255
-auto-cost reference-bandwidth 1000
-network 10.10.10.10 0.0.0.0 area 0
-default-information originate
+ router-id 1.1.1.255
+ auto-cost reference-bandwidth 1000
+ network 10.10.10.10 0.0.0.0 area 0
+ passive-interface loopback1
+ default-information originate
+int g0/1 
+ ip ospf network point-to-point
+ ip ospf router priority 100 ! default is 1, higher is better
 ```
 ```OSPF-help-commands
 show ip ospf int
