@@ -354,3 +354,9 @@ show crypto ipsec transform
 sho crypto isakmp policy
 show crypto map
 ```
+#### SNMP
+```SNMP-Commands
+snmp-server group TESTGRP v3 priv
+snmp-server host 10.7.7.253 TESTGRP
+snmp-server user quinnadmin TESTGRP v3 auth sha P@ssw0rd priv aes 128 P@ssw0rd
+```
