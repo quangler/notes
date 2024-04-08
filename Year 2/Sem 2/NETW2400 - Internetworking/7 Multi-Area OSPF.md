@@ -105,12 +105,16 @@ network 192.168.10.1 0.0.0.0 area 0
 ```
 #### Stub Area
 `area 51 stub`
+All routers in the area need to have this command to make the area a stub.
+Stub and non-stub routers don't form adjacencies.
 #### Totally Stubby Area
 `area 51 stub no-summary`
+You need this on the ABR of the area to make it Totally Stubby.
+Each router in the area needs to have `area 51 stub` applied to it also.
 #### Not-So-Stubby Area
-`area 13 nssa` (normal / stub)
+`area 13 nssa` - functions as a stub - all routers in area need this
 `area 13 nssa default-information-originate` (lets ABR inject the default route info from NSSA)
-`area 13 nssa no-summary` (act as totally stubby area - no LSA 3)
+`area 13 nssa no-summary` (act as totally stubby area - no LSA 3) - all routers need `area 13 nssa`, only ABRs needs `area 13 nssa no-summary`
 
 OSPF Route summarization is not done automatically, but it can be helpful:
 ```route-summarization

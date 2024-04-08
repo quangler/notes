@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7dc56db4e8aab0bc",
+        "id": "4bb2e66a47cce886",
         "type": "tabs",
         "children": [
           {
-            "id": "40048c63a51aef1f",
+            "id": "f1cc9c48d716e394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/NETW2400 - Internetworking/Research Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57258a8e26122eb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Sem 2/NETW1100/MASTER COMMANDS PAGE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6298e92e7e75de7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "! Commands Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffcca48367512f36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/15 - Risk Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! Commands Page.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/15 - Risk Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "! Commands Page.md",
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/15 - Risk Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! Commands Page.md"
+                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/15 - Risk Management.md"
               }
             }
           },
@@ -210,22 +173,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6298e92e7e75de7c",
+  "active": "f1cc9c48d716e394",
   "lastOpenFiles": [
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/14 - Operational and Organizational Security part 2.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/15 - Risk Management.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/quiz 4 notes.md",
+    "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/1 General Security Concepts.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/quiz notes.md",
+    "Year 2/Sem 2/NETW2400 - Internetworking/Research Project.md",
     "Year 1/Sem 2/NETW1100/MASTER COMMANDS PAGE.md",
     "! Commands Page.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/4 Types of IPv6 addresses.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/Research Project.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/Untitled",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/8 Multi Factor Authentication.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/9 Microsoft Intune & Endpoint Manager.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/14 Operational and Organizational Security part 2.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
     "Year 1/Sem 2/NETW1100/Commands Page ).md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/quiz notes.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/13 - Operational and Organizational Security part 1.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Drawing 2024-03-17 13.35.39.excalidraw.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.md",
@@ -238,9 +204,6 @@
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/presentation question.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/11 - System Hardening and Baselines.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/5 DHCPv6 and DNSv6.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/3 Intro to IPv6 Addressing.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/2 Path Control Policy-Based Routing.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/1 First Hop Redundancy Protocols.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.png",
     "Untitled.canvas",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 7",
