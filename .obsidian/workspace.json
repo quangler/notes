@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9f7aceb11d5ce137",
+        "id": "4b6fc018c9a3d289",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/16 - Disaster Recovery & Business Continuity.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/FINAL EXAM REVIEW.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/16 - Disaster Recovery & Business Continuity.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/FINAL EXAM REVIEW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/16 - Disaster Recovery & Business Continuity.md",
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/FINAL EXAM REVIEW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/SECR2100 - Enterprise Network Security/16 - Disaster Recovery & Business Continuity.md"
+                "file": "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/FINAL EXAM REVIEW.md"
               }
             }
           },
@@ -175,33 +175,34 @@
   },
   "active": "d3dd5faf35a7d8ae",
   "lastOpenFiles": [
-    "! Commands Page.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Final Assessment Study Guide.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/FINAL EXAM REVIEW.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/16 - Disaster Recovery & Business Continuity.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/11 - System Hardening and Baselines.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Drawing 2024-03-17 13.35.39.excalidraw.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/15 - Risk Management.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/14 - Operational and Organizational Security part 2.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/13 - Operational and Organizational Security part 1.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/12 - Security Auditing Process.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/11 - System Hardening and Baselines.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/8 - Authentication Part 1.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/2 RDS & VDI.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 notes.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/Lab 2 Documentation Section 1.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 1/lab 1 notes.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 1/Lab 1 Documentation Section.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Project/Project notes.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
+    "! Commands Page.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Exam 3 Notes.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Project",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/quiz 4 notes.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md",
     "assesment.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/openSSL.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Drawing 2024-03-17 13.35.39.excalidraw.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/14 - Operational and Organizational Security part 2.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/13 - Operational and Organizational Security part 1.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/15 - Risk Management.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/1 General Security Concepts.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/quiz notes.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/Research Project.md",
-    "Year 1/Sem 2/NETW1100/MASTER COMMANDS PAGE.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/4 Types of IPv6 addresses.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/6 Routing IPv6 with OSPF.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/Untitled",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/8 Multi Factor Authentication.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/9 Microsoft Intune & Endpoint Manager.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/7 Public Key Infrastructure (part 2).md",
-    "Year 1/Sem 2/NETW1100/Commands Page ).md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.md",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6/Lab 6 notes.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8",
     "! Images/Pasted image 20240326141141.png",
     "Year 2/Sem 2/NETW2400 - Internetworking/Drawing 2024-03-12 11.15.13.excalidraw.png",
@@ -221,7 +222,6 @@
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 Documentation.html",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/Lab 5 Documentation.pdf",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 5/How to Guides.pdf",
-    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 6",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 1/Untitled.canvas"
   ]
 }

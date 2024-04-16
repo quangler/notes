@@ -26,7 +26,7 @@
 - should include other policies:
 	- **Change Management** - following procedures when changes are made to IT infrastructure
 	- **Data Policies** - classification, labeling, handling, disposal - who owns the data, where can the data live, etc.
-	- **HR Policies** - hiring, firing, code of ethics, promotions, retirement, termination, vacation, on-boarding / off-boarding clients, social media, acceptable use, internet usage, email usage, clean desk policy, BYOD, privacy policy, etc. All these policies fit under the HR category.
+	- **HR Policies** - hiring, firing, code of ethics, promotions, retirement, **termination**, **vacation**, on-boarding / off-boarding clients, **social media**, **acceptable use**, **internet usage**, **email usage**, **clean desk policy**, **BYOD**, **privacy policy**, etc.
 
 **Due Care** - refers to the standard of care a reasonable person should use
 

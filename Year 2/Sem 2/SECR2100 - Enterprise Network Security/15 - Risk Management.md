@@ -104,8 +104,5 @@ for best practices, need to:
 - understand threat vectors / likelihoods of occurrence
 - use of mitigation techniques to reduce residual risk to manageable levels
 ### Risk Management Strategies
-- **Risk-Avoidance** - don't deploy things that add risk
-- **Transference** - purchase insurance - allows risk to be transferred to a third party
-- **Acceptance** - if the cost of mitigation is higher than the impact cost, you can just acknowledge it | residual risks have to be accepted
-- **Mitigation** - reducing impact of attack, when an impact beyond the accepted risk happens - notify someone, turn something off, etc.
+
 - **Deterrence** - ?
