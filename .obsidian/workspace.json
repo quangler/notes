@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b6fc018c9a3d289",
+        "id": "59fe733e1c76d816",
         "type": "tabs",
         "children": [
           {
-            "id": "d3dd5faf35a7d8ae",
+            "id": "db9cf8aecfda4334",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,10 +173,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3dd5faf35a7d8ae",
+  "active": "db9cf8aecfda4334",
   "lastOpenFiles": [
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Final Assessment Study Guide.md",
+    "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/7 DLP & Data Legislation.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/FINAL EXAM REVIEW.md",
+    "! Commands Page.md",
+    "test.md",
+    "[.md",
+    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Final Assessment Study Guide.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/16 - Disaster Recovery & Business Continuity.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Drawing 2024-03-17 13.35.39.excalidraw.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/15 - Risk Management.md",
@@ -193,15 +197,11 @@
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab 2/COMP2100 - Lab 2 Technical Documentation.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Project/Project notes.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8/lab 8 notes - DLP.md",
-    "! Commands Page.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Exam 3 Notes.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Project",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/quiz 4 notes.md",
     "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Lab 2 Notes.md",
     "assesment.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/openSSL.md",
-    "Year 2/Sem 2/NETW2400 - Internetworking/7 Multi-Area OSPF.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/1 General Security Concepts.md",
     "Year 2/Sem 2/NETW2400 - Internetworking/Untitled",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8",
     "! Images/Pasted image 20240326141141.png",

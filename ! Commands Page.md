@@ -360,3 +360,50 @@ snmp-server group TESTGRP v3 priv
 snmp-server host 10.7.7.253 TESTGRP
 snmp-server user quinnadmin TESTGRP v3 auth sha P@ssw0rd priv aes 128 P@ssw0rd
 ```
+
+---
+#### Basic Housekeeping Configuration
+``` basic-configuration
+hostname <Name>
+!
+username cisco secret cisco
+enable secret cisco
+service password-encryption
+!
+no ip domain-lookup
+ip domain-name lab.local
+!
+line console 0
+login local
+logging synchronous
+!
+crypto key generate rsa modulus 1024
+ip ssh version 2
+!
+ip access-list standard ForSSH
+permit 10.255.0.0 255.255.255.0
+permit 10.253.0.0 255.255.0.0
+!
+line vty 0 15
+login local
+logging synchronous
+transport input ssh
+access-class ForSSH in
+!
+no ip http server
+no ip http secure-server
+!
+vtp mode transparent
+!
+interface vlan 1
+no ip address
+no shutdown
+exit
+!
+spanning-tree mode rapid-pvst
+```
+
+test words! [^1] and then more test words! [^bignote]
+
+[^1]: this is the first footnote
+[^bignote]: this is the second one
