@@ -17,7 +17,7 @@ part 2:
 **2 technology showcase** - if in group - one person per technology showcase
 
 
-ME and ??
+ME and matt
 ME:
 - windows compliance policy 1
 - android devices
