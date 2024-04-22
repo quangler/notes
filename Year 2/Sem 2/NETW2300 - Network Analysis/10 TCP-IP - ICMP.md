@@ -52,7 +52,7 @@ how it works:
 **ICMP Type 0** : Code 0 - ICMP echo reply
 
 #### Traceroute
-**ICMP Type 8, Type 0** - ICMP echo (ping) request and reply
+**ICMP Type 8, Code 0** - ICMP echo (ping) request and reply
 **ICMP Type 11** : Code 0 - time-to-live exceeded
 - traces the exact sequence of routers from source to destination
 - hop-by-hop basis
