@@ -86,4 +86,4 @@ The thing to be worried about is if your company heavily relies on a public prev
 
 - These things can just disappear, and aren't guaranteed to make it to GA.
 
-![Exported image](Exported%20image%2020240207094452-0.png)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/Cost%20management%20%20SLAs.md/Exported%20image%2020240207094452-0.png)

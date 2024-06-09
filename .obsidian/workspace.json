@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/9 TCP-IP - DHCP.md",
+                "file": "HomeLab/Adding Storage to Proxmox VM.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/9 TCP-IP - DHCP.md",
+                "file": "HomeLab/Adding Storage to Proxmox VM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/9 TCP-IP - DHCP.md",
+                "file": "HomeLab/Adding Storage to Proxmox VM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Sem 2/NETW2300 - Network Analysis/9 TCP-IP - DHCP.md"
+                "file": "HomeLab/Adding Storage to Proxmox VM.md"
               }
             }
           },
@@ -175,8 +175,10 @@
   },
   "active": "822d59c9b740f628",
   "lastOpenFiles": [
-    "Year 2/Sem 2/NETW2300 - Network Analysis/NETW2300 Final Study Guide.md",
+    "HomeLab/Plex Server Migration Plan.md",
+    "HomeLab/Adding Storage to Proxmox VM.md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/9 TCP-IP - DHCP.md",
+    "Year 2/Sem 2/NETW2300 - Network Analysis/NETW2300 Final Study Guide.md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/2 TCP-IP.md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/11 Troubleshooting with Wireshark.md",
     "Year 2/Sem 2/NETW2300 - Network Analysis/4 TCP-IP Transport Layer Protocols Part 1.md",
@@ -199,8 +201,6 @@
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/FINAL EXAM REVIEW.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/7 DLP & Data Legislation.md",
     "test.md",
-    "[.md",
-    "Year 2/Sem 2/SECR2100 - Enterprise Network Security/Final Assessment Study Guide.md",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Project",
     "Year 2/Sem 2/NETW2400 - Internetworking/Untitled",
     "Year 2/Sem 2/COMP2100 - Enterprise Server Administration/Lab8",

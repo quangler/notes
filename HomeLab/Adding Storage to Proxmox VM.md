@@ -5,3 +5,5 @@
 4. Set disk size
 5. Click `Add` at bottom right
 ![[Pasted image 20240609144558.png]]
+
+## Linux adding the storage to the VM

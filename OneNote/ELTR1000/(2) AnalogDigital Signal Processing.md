@@ -121,26 +121,26 @@ Zero voltage represents 0
 
 1 bit is represented by alternating positive and negative
 
-![Exported image](Exported%20image%2020240207094509-0.png)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094509-0.png)
 
 On test, have to identify if it is digital to digital or not
 
-![Exported image](Exported%20image%2020240207094509-1.png)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094509-1.png)
 
 **NRZ-L vs NRZ-I**
 
-![Exported image](Exported%20image%2020240207094509-2.png)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094509-2.png)
 
 **Return to Zero (RZ)**
 
-![Exported image](Exported%20image%2020240207094509-3.png)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094509-3.png)
 
 **Manchester**
 
-![Exported image](Exported%20image%2020240207094509-4.png)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094509-4.png)
 
 **Differential Manchester**
 
-![Exported image](Exported%20image%2020240207094509-5.png)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094509-5.png)
 
 **Bipolar Encoding**

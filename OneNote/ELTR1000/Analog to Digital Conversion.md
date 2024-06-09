@@ -43,7 +43,7 @@ Operational Amplifier / op-amp #important
 
   
   
- ![Exported image](Exported%20image%2020240207094508-0.png)   
+ ![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094508-0.png)   
   
 
 V1 = most significant bit
@@ -62,11 +62,11 @@ Vn / 2n-1 is general formula
 
 **FLASH OPERATION:**
 
-![Exported image](Exported%20image%2020240207094508-1.png)  
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094508-1.png)  
 
 **SERIES CIRCUIT**
 
-![Exported image](Exported%20image%2020240207094508-2.png)  
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094508-2.png)  
   
   
   
@@ -78,7 +78,7 @@ The weird looking guys are **XOR gates**
 
 ONLY ACTIVATE IF IT IS **(1 - 0) OR (0 - 1)**
 
-![Exported image](Exported%20image%2020240207094508-3.png)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094508-3.png)
 
 **Operational Amp**
 
@@ -90,11 +90,11 @@ If you connect the positive to a positive, it is a comparator (HOW IT WORKS HERE
 
 **POSITIVE > NEGATIVE, OUTPUT = 1**
 
-![Exported image](Exported%20image%2020240207094508-4.png)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094508-4.png)
 
 **Diodes**, allow only one way power
 
-![Exported image](Exported%20image%2020240207094508-5.png)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094508-5.png)
 
 **If V****ref** **= 8V**
 
@@ -134,6 +134,6 @@ If you connect the positive to a positive, it is a comparator (HOW IT WORKS HERE
 
   
 
-![Exported image](Exported%20image%2020240207094508-6.png)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/AC%20Power.md/Exported%20image%2020240207094508-6.png)
 
 Example:

@@ -1,3 +1,3 @@
 > [!caution] This page contained a drawing which was not converted.   
 
-![Exported image](Exported%20image%2020240206214306-0.jpeg) ![Exported image](Exported%20image%2020240206214306-1.jpeg) ![Exported image](Exported%20image%2020240206214306-2.jpeg) ![Exported image](Exported%20image%2020240206214306-3.jpeg)
+![Exported image](Notes/!%20Images/!%20Pre%20Grad/week%203.md/Exported%20image%2020240206214306-0.jpeg) ![Exported image](Notes/!%20Images/!%20Pre%20Grad/week%203.md/Exported%20image%2020240206214306-1.jpeg) ![Exported image](Notes/!%20Images/!%20Pre%20Grad/PROBLEMS.md/Exported%20image%2020240206214306-2.jpeg) ![Exported image](Notes/!%20Images/!%20Pre%20Grad/PROBLEMS.md/Exported%20image%2020240206214306-3.jpeg)
