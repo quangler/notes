@@ -9,5 +9,6 @@
   },
   "attachmentFolderPath": "! Images",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }
