@@ -33,7 +33,7 @@ Now that there is a file system, we can mount it to a mount point by doing the f
 ![](!%20Images/Post%20Grad/Adding%20Storage%20to%20Linux%20Proxmox%20VM/Pasted%20image%2020240609171621.png)  
 `sudo nano /etc/fstab` -> in this file we want to write this out at the bottom of the file:  
 `/dev/storageVG/storageLV /mnt/data ext4 defaults 0 1`  
-![](!%20Images/Post%20Grad/Adding%20Storage%20to%20Linux%20Proxmox%20VM/Pasted%20image%2020240609171702.png)  
+![](!%20Images/Post%20Grad/Adding%20Storage%20to%20Linux%20Proxmox%20VM/Pasted%20image%2020240609171702.png)
 This will automatically mount our new filesystem to the `/mnt/data` folder every bootup.  
 To ensure it worked we can do `sudo mount -a`. If there are any errors, fix them - otherwise we are good to go.  
 Restart the system.  
