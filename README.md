@@ -1,6 +1,5 @@
 # notes
 This is a GitHub repository of all of my notes throughout the NET course at NAIT.
-#### To do:
-- [ ] import semesters 1-3 notes from OneNote to obsidian
+*EDIT:* As of 06/09/24 it will also be a repository for all home lab notes.
 
  
