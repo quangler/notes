@@ -43,3 +43,5 @@ If we do `mount /dev/storageVG/storageLV /mnt/data` it should fail because it is
 **Now we have a usable and mounted drive! The usable storage is located at /mnt/data**
 
 
+![](!%20Images/Post%20Grad/Adding%20Storage%20to%20Linux%20Proxmox%20VM/Pasted%20image%2020240609171738.png)
+11
