@@ -80,6 +80,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "d1495b4dcbec050d",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -154,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "822d59c9b740f628",
+  "active": "9283fb22522cbd2f",
   "lastOpenFiles": [
     "HomeLab/Plex Server Migration Plan.md",
     "HomeLab/Adding Storage to Proxmox VM.md",
